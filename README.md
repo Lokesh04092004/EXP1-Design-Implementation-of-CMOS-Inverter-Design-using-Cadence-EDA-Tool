@@ -46,7 +46,8 @@ ii)	Create Schematic Cell view.
 	Create Input and Output pins
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
-![image](https://github.com/user-attachments/assets/784d0afa-d8c6-4d7d-8681-84e5c851ea37)
+![cmos vlsi diagram 2](https://github.com/user-attachments/assets/b79c2c13-ff94-4621-bfb4-3597d8fb9b8f)
+
 
 
  
@@ -76,8 +77,8 @@ iv)	Creating the new test cell view
 	View: Schematic
 	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
+![cmos vlsi diagram 2](https://github.com/user-attachments/assets/3b2023b5-ed05-4e5e-8611-c6d7162cabc3)
 
-![image](https://github.com/user-attachments/assets/0f1eb390-537e-4915-a9d5-6855883745d4)
 
 
  
