@@ -103,8 +103,8 @@ For Transient Analysis Settings and Output
 
  For DC Analysis Settings and Output
 ![cmos vlsi diagram 2](https://github.com/user-attachments/assets/02330e73-8a55-4f41-a6df-4b119b0972d4)
+![vlsi graph 2](https://github.com/user-attachments/assets/4d9b1bfd-eecf-453d-bee7-54a8454893cf)
 
-![cmos vlsi diagram 2](https://github.com/user-attachments/assets/f85b11e4-45fe-4880-b49c-64a074523834)
 
  
 
